@@ -1,0 +1,20 @@
+{
+  "name": "vue-property-decorator",
+  "version": "0.0.1",
+  "main": "lib/index.umd.js",
+  "module": "lib/index.js",
+  "keywords": [
+    "vue",
+    "typescript",
+    "decorator"
+  ],
+  "license": "MIT",
+  "directories": {
+    "tests": "tests"
+  },
+  "files": [
+    "lib"
+  ],
+  "typings": "./lib/index.d.ts",
+  "dependencies": {}
+}
